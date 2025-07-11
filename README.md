@@ -23,7 +23,7 @@ Results-driven Full Stack Java Developer with over **8 years of experience** des
 
 ## 💼 Experience
 
-### 🔹 Sr. Full Stack Developer  
+### 🔹 Sr.Software Developer 
 **Nala Robotics, IL | Nov 2023 – Present**
 - Built a real-time AI-powered robotic kitchen dashboard using **React.js**, **Redux**, and **Spring WebFlux**.
 - Developed microservices for automation workflows with **Spring Boot**, **Kafka**, and **OAuth 2.0**.
@@ -31,7 +31,7 @@ Results-driven Full Stack Java Developer with over **8 years of experience** des
 - Integrated observability tools like **Prometheus**, **Grafana**, and **ELK Stack**.
 - Used **WebSockets** for live robotic arm status updates and **ArgoCD** for GitOps.
 
-### 🔹 Full Stack Developer  
+### 🔹 Software Developer  
 **Fiserv, NJ | Dec 2021 – Oct 2023**
 - Re-platformed legacy systems using **Spring Boot** and **Angular**.
 - Used **RabbitMQ**, **OAuth2**, **Oracle DB**, and **Cassandra** in a secure banking ecosystem.
