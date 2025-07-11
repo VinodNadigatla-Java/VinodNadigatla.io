@@ -1,4 +1,3 @@
-# VinodNadigatla.io
 # 👨‍💻 Vinod Nadigatla – Software Developer 
 
 📍 Aurora, Illinois  
