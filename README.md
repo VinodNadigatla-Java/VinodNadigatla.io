@@ -86,7 +86,6 @@ Results-driven Full Stack Java Developer with over **8 years of experience** des
 - 📧 Email: vinodnadigatla1312@gmail.com  
 - 📞 Phone: +1 (331)-213-9978  
 - 🔗 LinkedIn: [linkedin.com/in/your-profile](#)  
-- 🌐 Portfolio: [your-portfolio-link.com](#)  
 - 📍 Location: Aurora, Illinois
 
 ---
